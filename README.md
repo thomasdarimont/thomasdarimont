@@ -9,6 +9,9 @@ As a hacker, the best way to learn is by doing. That's why I'm a big proponent o
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdarimont&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a **[Keycloak](https://www.keycloak.org) maintainer** and help the project by fixing bugs, implementing new features and building PoCs.
+I'm also a member of the [OpenID Foundation Certification Team](https://openid.net/foundation/leadership/) where I work with the OpenID Foundation on their OpenID Connect and Financial-grade API certification programmes, helping share knowledge of the standards around the globe.
+
+I'm available for Keycloak Training and Consulting Engagements, feel free to reach out via https://www.linkedin.com/in/thomasdarimont/
 
 In my spare time I organize the [Java User Group Saarland](http://jugsaar.de/) and enjoy tinkering with JVMs, Compilers and the Cloud.
 

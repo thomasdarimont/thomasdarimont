@@ -6,7 +6,7 @@ Over the years, I've worked on various exciting projects, from developing comple
 
 As a hacker, the best way to learn is by doing. That's why I'm a big proponent of open-source software and the hacker ethic of sharing knowledge and collaborating. I've contributed to several open-source projects over the years and am always eager to help others learn and grow as hackers.
 
-[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdarimont&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Thomas's GitHub stats](https://github-stats-extended.vercel.app/api?username=thomasdarimont&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 I'm a **[Keycloak](https://www.keycloak.org) maintainer** and help the project by fixing bugs, implementing new features and building PoCs.
 I'm also a member of the [OpenID Foundation Certification Team](https://openid.net/foundation/leadership/) where I work with the OpenID Foundation on their OpenID Connect and FAPI certification programmes, helping share knowledge of the standards around the globe. My current work focus is on OpenID Shared Signals Framework (SSF) and OpenID for Verifiable Credentials.
